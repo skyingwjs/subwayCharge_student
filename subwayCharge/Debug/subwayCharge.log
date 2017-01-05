@@ -1,0 +1,34 @@
+﻿  subwayprice_test.cpp
+  subwayline_test.cpp
+  subwaycard_test.cpp
+  subwaySocket.cpp
+  deductPrice.cpp
+  basePrice.cpp
+  subwayline.cpp
+  subwayError.cpp
+  subwayOutput.cpp
+  subwayCmdProc.cpp
+  subwayCommonSplit.cpp
+  subwaySingleTicketProc.cpp
+  subwayResetProc.cpp
+  subwayQueryLineProc.cpp
+  subwayQueryHistoryProc.cpp
+  subwayFillChargeProc.cpp
+  subwayDeductProc.cpp
+  subwayCreateCardProc.cpp
+  subwayCmdParse.cpp
+  cmdSingleTicket.cpp
+  Generating Code...
+  Compiling...
+  cmdReset.cpp
+  cmdQueryLine.cpp
+  cmdQueryHistory.cpp
+  cmdFillCharge.cpp
+  cmdDestroyCard.cpp
+  cmdDeductProc.cpp
+  cmdCreateCard.cpp
+  subwayCharge.cpp
+  subwayCard.cpp
+  stdafx.cpp
+  Generating Code...
+  subwayCharge.vcxproj -> D:\01_work\2016Q34\02_西研所软件训练营\release_2\07.实战课程-西研\实战课程_C语言版\03_演练和实战工程\project\subwayCharge_student\Debug\subwayCharge.exe
